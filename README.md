@@ -1,3 +1,3 @@
-# Continuation of Robust Server Design - RESTful APIs
+# Continuation of Robust Server Design - API Testing
 
-Learning how to develop a server that follows representational state transfer constraints. Follows and adds to the starter file for robust server design in the Thinkful curriculum.
+Learning how to develop a series of tests to make sure an Express server is functioning correctly.
